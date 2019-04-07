@@ -1,8 +1,8 @@
 
 **How can IT demonstrate the value of cloud to the business?**
 
-
+IT needs to be 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzQ5MTU4MiwtMTc4MzgxMzE1NywtMT
-c1NTI4MTc1MiwtMjA1NjUwOTk2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDE4MjMyNzc0LC0xNzgzODEzMTU3LC0xNz
+U1MjgxNzUyLC0yMDU2NTA5OTYsNzMwOTk4MTE2XX0=
 -->
