@@ -9,14 +9,14 @@ Ensure that IT strategy is aligned to achieving,
 supporting, and delivering business
 strategy and desired consumer outcomes.
 
+Implement a balanced scorecard.
 
 Achieving desired outcomes.
-Demonstrating tangible benefits.
 Satisfying needs.
 Describing achievements.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjA4NDc3Myw2MTc4MDA1OTEsLTk0OD
-kzNjQ4NCw2NTI4Mzk4NTQsLTE1NjE5ODMwNjIsLTE3ODM4MTMx
-NTcsLTE3NTUyODE3NTIsLTIwNTY1MDk5Niw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbLTE0ODQyOTE5NTIsLTY1NjA4NDc3Myw2MT
+c4MDA1OTEsLTk0ODkzNjQ4NCw2NTI4Mzk4NTQsLTE1NjE5ODMw
+NjIsLTE3ODM4MTMxNTcsLTE3NTUyODE3NTIsLTIwNTY1MDk5Ni
+w3MzA5OTgxMTZdfQ==
 -->
