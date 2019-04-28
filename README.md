@@ -19,4 +19,20 @@ Transformation plan
 
 How will we maintain the requirements to achieve the vision? Cloud training strategy, changes required by the organisation.
 
+Business Objectives and Requirements
+Scope
+Future Goals
+Workload Assessment
+Roles and Stakeholders
+Resourcing and Budgeting
+Milestones
+Completion Criteria and Success Metrics
+Assumptions and Dependencies
+Architectural Overview
+Provider Assessment
+Architectural and Technical Requirements
+Constraints
+Technical Risk Assessment
+
+
 Glossary
